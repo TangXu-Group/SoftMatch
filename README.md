@@ -1,7 +1,8 @@
 # SoftMatch
 
-This repository provides the code for the methods and experiments presented in our paper 'SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images'. (arxiv2023)
-![image](https://github.com/TangXu-Group/SoftMatch/assets/74549002/7e48234f-3227-4256-94f2-eb5928b3b4a6)
+This repository provides the code for the methods and experiments presented in our paper 'SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images'. (Pattern Recognition)
+
+![image](https://github.com/user-attachments/assets/5d5cb8df-ae2d-4b62-b943-48a1c39e7f44)
 
 If you have any questions, you can send me an email. My mail address is yqunyang@163.com
 
