@@ -1,8 +1,6 @@
 # SoftMatch
 
-This repository provides the code for the methods and experiments presented in our paper 'SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images'. (Pattern Recognition 2025 (https://www.sciencedirect.com/science/article/pii/S0031320325008301))
-
-“https://www.sciencedirect.com/science/article/pii/S0031320325008301
+This repository provides the code for the methods and experiments presented in our paper 'SoftMatch Distance: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images'. ([Pattern Recognition 2025](https://www.sciencedirect.com/science/article/pii/S0031320325008301))
 
 ![image](https://github.com/user-attachments/assets/5d5cb8df-ae2d-4b62-b943-48a1c39e7f44)
 
